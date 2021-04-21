@@ -1,1 +1,1 @@
-# Live site link: https://agitated-pasteur-d95cd8.netlify.app/
+# Live site link: https://fardin98.github.io/personal-website/
